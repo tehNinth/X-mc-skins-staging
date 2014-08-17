@@ -1,5 +1,5 @@
 
-language.name=X-Speak
+language.name=X-speak
 language.region=US
 language.code=en_US
 
@@ -753,7 +753,7 @@ item.emerald.name=Emerald
 item.ingotIron.name=Iron Ingot
 item.ingotGold.name=Gold Ingot
 item.swordIron.name=Iron Sword
-item.swordWood.name=Wooden Sword
+item.swordWood.name=Corvo's Wooden Sword
 item.shovelWood.name=Wooden Shovel
 item.pickaxeWood.name=Wooden Pickaxe
 item.hatchetWood.name=Wooden Axe
@@ -784,7 +784,7 @@ item.seeds.name=Seeds
 item.seeds_pumpkin.name=Pumpkin Seeds
 item.seeds_melon.name=Melon Seeds
 item.melon.name=Melon
-item.wheat.name=Wheat
+item.wheat.name=Cup of green tea
 item.bread.name=Bread
 item.helmetCloth.name=Leather Cap
 item.chestplateCloth.name=Leather Tunic
