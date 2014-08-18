@@ -13,6 +13,8 @@ There is a post on the [X Reddit](http://www.reddit.com/r/davidr64yt/comments/2d
 
 Place the file into the resource pack folder which is located in **.minecraft/resourcepacks** but *DO NOT UNZIP IT*
 
+Make sure that the language used is en_US (US English) to get the language changes provided by the pack.
+
 ## Bugs/Additions
 
 Bugs/issues should be reported on the [github issues](https://github.com/VioletDarkKitty/X-mc-skins-staging/issues) page.
