@@ -1,2 +1,4 @@
 # Ignore backup files on ubuntu from gedit
 *.*~
+
+# Ignore the build directory
