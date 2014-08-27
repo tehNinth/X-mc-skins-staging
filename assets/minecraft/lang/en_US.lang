@@ -30,11 +30,11 @@ menu.returnToMenu=Save and Quit to Title
 menu.disconnect=Disconnect
 menu.returnToGame=Back to Game
 menu.switchingLevel=Switching worlds
-menu.generatingLevel=Generating world
-menu.loadingLevel=Loading world
-menu.generatingTerrain=Building terrain
-menu.convertingLevel=Converting world
-menu.simulating=Simulating the world for a bit
+menu.generatingLevel=Meowing meow
+menu.loadingLevel=Loading meow
+menu.generatingTerrain=Meowing terrain
+menu.convertingLevel=Converting the meow meow
+menu.simulating=Simulating the world for a meow
 menu.respawning=Respawning
 menu.shareToLan=Open to LAN
 
@@ -1220,6 +1220,8 @@ enchantment.level.7=VII
 enchantment.level.8=VIII
 enchantment.level.9=IX
 enchantment.level.10=X
+enchantment.level.20=XX
+enchantment.level.30=XXX
 
 gui.achievements=Achievements
 gui.stats=Statistics
